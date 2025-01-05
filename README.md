@@ -2,7 +2,7 @@
 
 ## 📊 Overview
 
-The **Superstore Sales Analysis Dashboard** provides an in-depth analysis of sales, profit, and key business metrics for a fictional retail store. Built using **Power BI**, this interactive dashboard allows users to gain actionable insights into sales performance across various dimensions.
+The **Superstore Sales Analysis Dashboard** provides an in-depth analysis of sales, profit, and key business metrics for a fictional retail store based in the United Satates. It is built using **Power BI**, this interactive dashboard allows users to gain actionable insights into sales performance across various dimensions like regions, segments, categories, and sub-categories.
 
 ---
 
@@ -53,22 +53,13 @@ The **Superstore Sales Analysis Dashboard** provides an in-depth analysis of sal
 - **Power BI**: Data visualization and dashboard creation.
 - **Data Source**: Global Superstore dataset.
 
----
 
-## 📂 Repository Structure
-
-. ├── Dashboard/ │ ├── Superstore_Sales_Analysis.pbix # Power BI Dashboard file │ ├── Superstore_Dataset.csv # Data source file ├── README.md # Project documentation ├── Images/ # Screenshots of the dashboard │ ├── sales_by_ship_mode.png │ ├── regional_sales.png │ ├── segment_performance.png
-
-yaml
-Copy code
-
----
 
 ## 🚀 Getting Started
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/superstore-sales-analysis.git
+   git clone https://Chaudharypallavi/superstore-sales-analysis.git
 Open the Superstore_Sales_Analysis.pbix file in Power BI Desktop.
 Interact with the dashboard to explore insights.
 
@@ -77,8 +68,4 @@ Interact with the dashboard to explore insights.
 ### drill-through functionality for detailed product-level insights.
 ### Integrate advanced analytics like RFM analysis.
 
-## 📄 License
--**This project is licensed under the MIT License**.
 
-## 💬 Feedback & Contributions
-We welcome your feedback and contributions! Feel free to create issues or submit pull requests.
